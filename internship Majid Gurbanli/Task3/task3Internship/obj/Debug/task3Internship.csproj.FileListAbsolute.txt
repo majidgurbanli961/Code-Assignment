@@ -1,0 +1,7 @@
+C:\Users\Majid\source\repos\task3Internship\task3Internship\bin\Debug\task3Internship.exe.config
+C:\Users\Majid\source\repos\task3Internship\task3Internship\bin\Debug\task3Internship.exe
+C:\Users\Majid\source\repos\task3Internship\task3Internship\bin\Debug\task3Internship.pdb
+C:\Users\Majid\source\repos\task3Internship\task3Internship\obj\Debug\task3Internship.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\task3Internship\task3Internship\obj\Debug\task3Internship.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\task3Internship\task3Internship\obj\Debug\task3Internship.exe
+C:\Users\Majid\source\repos\task3Internship\task3Internship\obj\Debug\task3Internship.pdb
